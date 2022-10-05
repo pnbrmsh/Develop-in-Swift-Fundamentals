@@ -12,4 +12,4 @@
 
 ## LigthSwitch
 <img width="1675" alt="LightSwitch-1" src="https://user-images.githubusercontent.com/110047886/194120926-3d4eede4-0940-490e-bf51-712c744eeb0f.png">
-<img width="1679" alt="LightSwitch-2" src="https://user-images.githubusercontent.com/110047886/194120952-c97871f5-c2c2-4fe0-9b67-4ec883b49a63.png"><img width="1679" alt="LightSwitch-2" src="https://user-images.githubusercontent.com/110047886/194120991-dff7efa2-c65c-420d-9b7b-1c9fe0215565.png">
+<img width="1679" alt="LightSwitch-2" src="https://user-images.githubusercontent.com/110047886/194120952-c97871f5-c2c2-4fe0-9b67-4ec883b49a63.png">
